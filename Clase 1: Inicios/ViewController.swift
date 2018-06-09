@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     }
     @IBAction func crearObjeto(_ sender: UIButton) {
         print("1")
-        variableGlobal = 20
+        variableGlobal = 30
     }
     @IBAction func mostrarPropiedades(_ sender: UIButton) {
         print("1")
