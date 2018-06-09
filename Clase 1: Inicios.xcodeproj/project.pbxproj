@@ -14,6 +14,7 @@
 		544A57DC20C9F41A00017155 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 544A57DA20C9F41A00017155 /* LaunchScreen.storyboard */; };
 		544A57E720C9F41A00017155 /* Clase_1__IniciosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 544A57E620C9F41A00017155 /* Clase_1__IniciosTests.swift */; };
 		544A57F220C9F41A00017155 /* Clase_1__IniciosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 544A57F120C9F41A00017155 /* Clase_1__IniciosUITests.swift */; };
+		54F40A6220CA1FE9006589C8 /* mazda3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54F40A6120CA1FE9006589C8 /* mazda3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,8 @@
 		544A57ED20C9F41A00017155 /* Clase 1: IniciosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Clase 1: IniciosUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		544A57F120C9F41A00017155 /* Clase_1__IniciosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Clase_1__IniciosUITests.swift; sourceTree = "<group>"; };
 		544A57F320C9F41A00017155 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		544A57FF20CA134D00017155 /* poo.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = poo.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		54F40A6120CA1FE9006589C8 /* mazda3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mazda3.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +102,8 @@
 			children = (
 				544A57D120C9F41A00017155 /* AppDelegate.swift */,
 				544A57D320C9F41A00017155 /* ViewController.swift */,
+				54F40A6120CA1FE9006589C8 /* mazda3.swift */,
+				544A57FF20CA134D00017155 /* poo.playground */,
 				544A57D520C9F41A00017155 /* Main.storyboard */,
 				544A57D820C9F41A00017155 /* Assets.xcassets */,
 				544A57DA20C9F41A00017155 /* LaunchScreen.storyboard */,
@@ -260,6 +265,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				544A57D420C9F41A00017155 /* ViewController.swift in Sources */,
+				54F40A6220CA1FE9006589C8 /* mazda3.swift in Sources */,
 				544A57D220C9F41A00017155 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
